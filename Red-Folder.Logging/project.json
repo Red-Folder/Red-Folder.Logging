@@ -1,0 +1,22 @@
+﻿{
+  "name":  "Red-Folder.Logging",
+  "version": "0.0.0",
+  "description": "Libraries logging logic",
+  "copyright": "Red Folder Consultancy Ltd 2016",
+  "title": "Red-Folder.Logging",
+  "authors": [ "Red Folder Consultancy Ltd" ],
+  "supports": {},
+
+  "frameworks": {
+    "net40": {
+      "frameworkAssemblies": {
+      }
+    },
+    "netstandard1.2": {
+      "dependencies": {
+        "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
+        "NETStandard.Library": "1.6.0"
+      }
+    }
+  }
+}
